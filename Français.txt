@@ -91,7 +91,7 @@
 #89# Éditer
 #90# Langue
 #91# En pause
-#92# Verrouiller la rotation caméra
+#92# Verrouiller la rotation de la vue
 #93# Centrer la vue
 #94# Vélocité
 #95# Grille
@@ -195,44 +195,44 @@
 #193# Missile
 #194# Energie
 #195# Nourriture
-#196# Pas de ressource sans nom
-#197# Impossible d'ouvrir le menu Construire
+#196# Pas de ressource avec ce nom
+#197# Impossible d'ouvrir le menu de contruction
 #198# Le vaisseau actuel ne possède pas de module de construction
-#199# Plus de nourriture !
-#200# Pas de nourriture à bord de ce vaisseau !
+#199# Plus de nourriture
+#200# Pas de nourriture à bord de ce vaisseau
 #201# Mort de faim
 #202# est mort de faim !
-#203# Avertissement !
-#204# Le dernier module de commande ne peut être déconstruit !
+#203# Avertissement
+#204# Le dernier module de commande ne peut être déconstruit
 #205# Pilote automatique désactivé par l'action du joueur
 #206# Le 'Warp drive' n'est pas encore prêt
-#207# Impossible de tirer ! 
+#207# Impossible de tirer 
 #208# Le lanceur de missile n'est pas connecté à un stockage de munitions
-#209# Impossible de tirer !
-#210# Pas de munition disponible
-#211# Pilote autom. activé
-#212# Pilote autom. désactivé
-#213# Sélect. un vaisseau
-#214# Pas d'objet sélect.
-#215# Sélect. un vaisseau
-#216# Sélect. un objet
-#217# Raccourcis:
-#218# Nom racc.:
-#219# Gauche:
+#209# Impossible de tirer
+#210# Pas de munitions dans le stockage connecté
+#211# Pilote automatique activé
+#212# Pilote automatique désactivé
+#213# Sélectionner un vaisseau
+#214# Pas d'objet sélectionné
+#215# Sélectionner un vaisseau
+#216# Sélectionner un objet
+#217# Raccourcis :
+#218# Noms raccourcis :
+#219# Quitté :
 #220# Autorisé par le serveur seulement
 #221# Partie enregistrée
 #222# ! ERREUR ENREGISTREMENT !
 #223# Enregistrement impossible suite à une erreur interne
-#224# Crédit insuffisant
-#225# Les vaisseaux ne peuvent être amarrés ensemble
-#226# Stockage plein
+#224# Crédits insuffisants
+#225# Les vaisseaux devraient être connectés ensemble
+#226# Stockage vide
 #227# Le vendeur ne demande pas cette ressource
 #228# Impossible de vendre, le stockage est plein
 #229# unités de
 #230# ont été vendu(e)s pour
 #231# unités de
 #232# ont été acheté(e)s pour
-#233# Crédits insuffisants:
+#233# Crédits insuffisants :
 #234# récupéré
 #235# Pas assez d'espace pour récupérer
 #236# Facteurs
@@ -241,52 +241,52 @@
 #239# Poussée du moteur
 #240# Consommation de carburant
 #241# Couple du volant d'inertie
-#242# Paramètres orbitaux
+#242# PARAMÈTRES ORBITAUX
 #243# Trajectoire
 #244# Position
-#245# Apoapside
-#246# Périapside
+#245# Apogéee
+#246# Périgée
 #247# Excentricité
 #248# Période orbitale
-#249# Tang. velocity
-#250# Ang. velocity
+#249# Vélocité tangentielle
+#250# Vélocité angulaire
 #251# Ouvrir le menu de construction
 #252# Déconstruire le module sélectionné
-#253# Prendre contrôle du vaisseau disponible précédent
+#253# Prendre contrôle du précédent vaisseau disponible
 #254# Prendre contrôle du prochain vaisseau disponible
-#255# Réinitialiser la durée
-#256# Réduire la durée
-#257# Augmenter la durée
+#255# Réinitialiser l'accélération du temps
+#256# Réduire l'accélération du temps
+#257# Augmenter l'accélération du temps
 #258# Afficher les stockages
 #259# Afficher le contenu de tous les conteneurs de stockage du vaisseau actuel. Le contenu peut être déplacé entre les conteneurs en utilisant le glisser-déposer avec le bouton gauche de la souris. En maintenant le bouton Shift-Gauche vous pouvez transférer une quantité spécifique de ressources.
-#260# Afficher l'équipage du vaisseau actuel. Les membres de l'équipage peuvent être déplacés en utilisant le glisser-déposer.
+#260# Afficher l'équipage du vaisseau actuel. Les membres d'équipage peuvent être déplacés en utilisant le glisser-déposer.
 #261# Afficher les connecteurs
 #262# Afficher les connecteurs de ressources pour le vaisseau actuel. Si le module nécessite des ressources spécifiques, il doit être connecté à ces dernières en utilisant ce mode. Les connecteurs peuvent être attachés aux modules en utilisant le glisser-déposer.
 #263# Afficher les points de montage
 #264# Afficher les points de montage pour le vaisseau actuel. Les points de montage peuvent être connectés ou déconnectés par un clic gauche.
 #265# Afficher le centre de masse pour le vaisseau actuel.
-#266# Vérrouiller le SCR
+#266# Arrêter la rotation
 #267# Stabiliser la rotation du vaisseau en utilisant ses moteurs.
-#268# Si activé - sélectionnez votre navire et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
+#268# Si activé - sélectionnez votre vaisseau et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
 #269# Afficher les dégats
 #270# Afficher temporairement l'intégrité du vaisseau
-#271# Rotate locker
-#272# Aligner la rotation de la vue avec l'objet observé
+#271# Bloquer la rotation de la vue
+#272# Aligner la vue avec l'objet sélectionné
 #273# Centrer la vue
-#274# Focaliser la vue sur le vaisseau sélectionné
-#275# Réinitialiser la vue panoramique
-#276# Vue par défaut sur le vaisseau sélectionné
+#274# Focaliser la vue sur l'objet sélectionné
+#275# Réinitialiser la vue
+#276# Réinitialise la vue sur le vaisseau
 #277# Afficher la vélocité
-#278# Afficher la vélocité relative (orange) et la direction (blanc) jusqu'à l'objet sélectionné
-#279# Afficher les repères
-#280# Les lignes de quadrillages utiles à la navigation dans le système solaire
+#278# Afficher la vélocité relative (orange) et la direction (blanc) de l'objet sélectionné
+#279# Afficher la grille
+#280# Affiche la grille rectangulaire relative à l'étoile
 #281# Puissance actuelle
 #282# Capacité de puissance maximale
 #283# Puissance d'entrée
 #284# Puissance de sortie
 #285# Somme de la puissance d'entrée et de sortie
-#286# Quantité totale d'Hydrogène
-#287# Quantité totale d'Oxygène
+#286# Quantité totale d'hydrogène
+#287# Quantité totale d'oxygène
 #288# Afficher les paramètres orbitaux pour l'objet sélectionné
 #289# Faction
 #290# Renommer le vaisseau
